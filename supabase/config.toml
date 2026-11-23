@@ -1,0 +1,2 @@
+# Configure seu próprio projeto Supabase; não use o project_id do EnterCloud.
+# Depois de vincular pelo CLI: supabase link --project-ref SEU_PROJECT_REF
